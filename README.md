@@ -2,10 +2,10 @@
 
 My name is Carl Smedstad, and I am among other things:
 
-* A software engineer who develops flight planning software for [The Boeing Company](https://www.boeing.com/) via the consultancy [Codic Consulting](https://codic.se/).
-* An event host at [Future Skill](https://futureskill.com/company-events) hosting events where developers compete in writing code in a fun setting.
-* A maintainer of a number of packages in the [Arch User Repository (AUR)](https://aur.archlinux.org/packages?O=0&SeB=M&K=carsme&outdated=&SB=p&SO=d&PP=50&submit=Go).
-* The author of [mkincl](https://github.com/mkincl/mkincl).
+* Lead developer for a team devloping flight planning software for [The Boeing Company](https://www.boeing.com/) via the consultancy [Codic Consulting](https://codic.se/).
+* Event host at [Future Skill](https://futureskill.com/company-events) hosting events where developers compete in writing code in a fun setting.
+* Maintainer of a number of packages in the [Arch User Repository (AUR)](https://aur.archlinux.org/packages?O=0&SeB=M&K=carsme&outdated=&SB=p&SO=d&PP=50&submit=Go).
+* Author of [mkincl](https://github.com/mkincl/mkincl).
 
 <!--
 **carlsmedstad/carlsmedstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
