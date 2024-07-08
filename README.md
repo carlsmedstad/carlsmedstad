@@ -2,10 +2,9 @@
 
 My name is Carl Smedstad, and I am among other things:
 
-* Lead developer for a team devloping flight planning software for [The Boeing Company](https://www.boeing.com/) via the consultancy [Codic Consulting](https://codic.se/).
+* Lead developer for a team developing flight planning software for [The Boeing Company](https://www.boeing.com/) via the consultancy [Codic Consulting](https://codic.se/).
 * Event host at [Future Skill](https://futureskill.com/company-events) hosting events where developers compete in writing code in a fun setting.
 * Arch Linux package maintainer.
-* Author of [mkincl](https://github.com/mkincl/mkincl).
 
 <!--
 **carlsmedstad/carlsmedstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
