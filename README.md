@@ -2,7 +2,7 @@
 
 My name is Carl Smedstad, and I am among other things:
 
-* Engineering lead for a team developing flight planning software for [The Boeing Company](https://www.boeing.com/) via the consultancy [Codic Consulting](https://codic.se/).
+* Engineering lead for a team developing flight planning software at [The Boeing Company](https://www.boeing.com/).
 * Event host at [Future Skill](https://futureskill.com/company-events) hosting events where developers compete in writing code in a fun setting.
 * Arch Linux package maintainer.
 
