@@ -2,9 +2,8 @@
 
 My name is Carl Smedstad, and I am among other things:
 
-* Lead for a team developing flight planning software at [Jeppesen ForeFlight](https://ww2.jeppesen.com/).
-* Event host at [Future Skill](https://futureskill.com/company-events) hosting events where developers compete in writing code in a fun setting.
-* Arch Linux package maintainer.
+* Lead for a team developing flight planning software at [Jeppesen ForeFlight]([https://ww2.jeppesen.com/](https://www.jeppesenforeflight.com/)).
+* [Arch Linux](https://archlinux.org/) package maintainer.
 
 <!--
 **carlsmedstad/carlsmedstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
