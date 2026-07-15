@@ -2,7 +2,7 @@
 
 My name is Carl Smedstad, and I am among other things:
 
-* Lead for a team developing flight planning software at [Jeppesen ForeFlight]([https://ww2.jeppesen.com/](https://www.jeppesenforeflight.com/)).
+* Lead for a team developing flight planning software at [Jeppesen ForeFlight](https://www.jeppesenforeflight.com/).
 * [Arch Linux](https://archlinux.org/) package maintainer.
 
 <!--
